@@ -1,0 +1,20 @@
+*{
+	box-sizing: border-box;
+	margin: none;
+	padding: none;
+}
+@font-face{
+	font-family: Courage;
+	src:url(fonts/SilenceRocken.ttf);
+}
+
+body{
+	background: url("photos/Desert.jpg");
+	background-size: 100% , 100%;
+}
+.Logo{
+	font-family: Montserrat;
+	font-size: 70px;
+	color: white;
+	text-align: center;
+}
