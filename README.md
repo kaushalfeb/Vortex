@@ -1,3 +1,3 @@
 # Vortex
  
-![Image of Welcome page](https://github.com/kaushalfeb/Vortex/photos/coming.png)
+![Coming Soon](https://github.com/kaushalfeb/Vortex/blob/master/photos/coming.png)
