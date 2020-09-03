@@ -18,3 +18,13 @@ body{
 	color: white;
 	text-align: center;
 }
+.glass{
+	position: absolute;
+	z-index: 2;
+	width: 500px;
+	height: 250px;
+	left: 420px;
+	top: 400px;
+	filter: blur(10px);
+	background-color: rgba(1,1,1,0.1);
+}
