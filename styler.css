@@ -25,6 +25,12 @@ body{
 	height: 250px;
 	left: 420px;
 	top: 400px;
-	filter: blur(10px);
-	background-color: rgba(1,1,1,0.1);
+	background-color: rgba(255,255,255,0.2);
+	backdrop-filter:blur(20px);
+}
+.exam{
+	font-family: Poppins;
+	font-size: 120px;
+	color: white;
+	text-align: center;
 }
