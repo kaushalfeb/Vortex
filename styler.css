@@ -9,7 +9,7 @@
 }
 
 body{
-	background: url("photos/Desert.jpg");
+	background: url("photos/wally.jpg");
 	background-size: 100% , 100%;
 }
 .Logo{
@@ -17,6 +17,7 @@ body{
 	font-size: 70px;
 	color: white;
 	text-align: center;
+	min-height: 100 px;
 }
 .glass{
 	position: absolute;
